@@ -1,4 +1,4 @@
-# GPTS Demo App — Construction Compliance Tracker
+# Construction Compliance Tracker - demo application
 
 A client-side demo application for the Construction Compliance Tracking domain, built with React 19 and a glassmorphism UI aesthetic. All data is served from local JSON files (no backend required).
 
